@@ -109,3 +109,7 @@ Now the interesting part - I will add three bluray scores to level the ratings, 
 - /blu.?ray.+SA89/i +100
 - /blu.?ray.+(NTb|BTN)/i +80
 - /blu.?ray.+CtrlHD/i +80
+
+## The Quality Profiles
+
+![My quality profiles](https://cdn.discordapp.com/attachments/539425446237044736/683009819665236150/FcEI9FAiRAAiTQDQFTP2ZYxRI6rxxpMmxSIAESKDvBBLltH3lXIEEiABEiABgxPoP4ll8IVzeiRAAiRAAiRAAiRAAiRAAiRAAiRA.png)
